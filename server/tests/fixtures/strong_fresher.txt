@@ -1,0 +1,32 @@
+ADITHYA S
+Bangalore, India | +91 98765 43210 | adithya@example.com | linkedin.com/in/adithya-dev | github.com/adithya-dev
+
+PROFESSIONAL SUMMARY
+Results-driven Full Stack Software Engineer with 2+ years of experience building scalable web applications. Spearheaded backend microservices and optimized React frontends to improve user engagement by 40%.
+
+TECHNICAL SKILLS
+- Languages: JavaScript, TypeScript, Python, SQL, HTML, CSS
+- Frameworks & Libraries: React, Node.js, Express.js, Next.js, Redux, Tailwind CSS
+- Databases & Cloud: PostgreSQL, MongoDB, Redis, AWS (S3, EC2, Lambda), Docker
+- Tools & Methodologies: Git, CI/CD, REST API, GraphQL, Agile, Jest
+
+WORK EXPERIENCE
+Full Stack Engineer | TechCorp Systems | Jan 2023 – Present
+- Spearheaded the redesign of core dashboard using React and TypeScript, reducing initial load time by 45%.
+- Architected RESTful microservices in Node.js and PostgreSQL handling 50,000+ daily active users.
+- Automated CI/CD deployment pipelines on AWS using Docker, saving 15 hours of manual release work per month.
+- Optimized database queries and Redis caching layer, decreasing p99 API latency from 850ms to 120ms.
+
+Software Engineer Intern | Innovate Labs | Jun 2022 – Dec 2022
+- Engineered responsive user interfaces using Next.js and Tailwind CSS for over 10k monthly visitors.
+- Implemented JWT authentication and role-based access control across 12 API endpoints.
+
+PROJECTS
+ResumeLens ATS Scorer | TypeScript, React, Express, Node.js | Feb 2024
+- Built high-performance ATS resume analyzer scoring document structure, keyword density, and formatting.
+
+EDUCATION
+Bachelor of Technology in Computer Science | National Institute of Technology | 2018 – 2022
+
+CERTIFICATIONS
+- AWS Certified Developer Associate

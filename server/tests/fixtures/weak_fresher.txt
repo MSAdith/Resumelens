@@ -1,0 +1,18 @@
+John Doe
+City, State
+
+SUMMARY
+Looking for a software job.
+
+WORK HISTORY
+Worker | Small Firm | 2022 - 2023
+- Responsible for web coding and fixing bugs.
+- Worked on HTML and CSS pages.
+- Assisted with database stuff.
+- Helped out team with testing.
+
+SKILLS
+HTML, CSS, Word
+
+EDUCATION
+College | 2022

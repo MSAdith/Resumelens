@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "installCommand": "npm run setup",
+  "buildCommand": "npm run build",
+  "outputDirectory": "client/dist",
+  "functions": {
+    "api/**/*.js": {
+      "maxDuration": 15,
+      "memory": 1024
+    }
+  },
+  "rewrites": [
+    { "source": "/api/health", "destination": "/api/health.js" },
+    { "source": "/api/analyze", "destination": "/api/analyze.js" },
+    { "source": "/api/(.*)", "destination": "/api/index.js" },
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}

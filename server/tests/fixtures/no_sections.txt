@@ -1,0 +1,6 @@
+Jordan Taylor
+jordan@example.com | 555-123-4567
+
+I am a software engineer with 3 years of experience. I worked at Tech Solutions where I developed web applications using JavaScript, HTML, and CSS. I improved site performance by 25% and integrated third-party REST APIs.
+
+Later I joined Digital Corp where I created Node.js microservices and managed PostgreSQL databases. I graduated from State University with a degree in Information Technology in 2021.

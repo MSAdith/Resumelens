@@ -1,0 +1,10 @@
+Job Title: Senior Frontend Engineer
+
+We are seeking a Senior Frontend Engineer to build modern, performant web applications.
+
+Requirements:
+- 3+ years of experience with React, TypeScript, and JavaScript (ES6+).
+- Strong proficiency in modern CSS (Tailwind CSS, Sass, HTML5).
+- Hands-on experience with state management (Redux, Zustand) and API integration (REST API, GraphQL).
+- Experience with frontend build tools (Vite, Webpack) and automated testing (Jest, Cypress).
+- Knowledge of Node.js, Next.js, Docker, and CI/CD pipelines is a strong plus.

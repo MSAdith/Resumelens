@@ -1,0 +1,6 @@
+Job Title: Embedded Systems Firmware Engineer
+
+Requirements:
+- C, C++, Assembly, RTOS, ARM Microcontrollers, Embedded C.
+- Hardware protocols: SPI, I2C, UART, CAN bus.
+- Experience with low-level debugging, Oscilloscopes, and firmware optimization.

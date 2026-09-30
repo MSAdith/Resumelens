@@ -1,0 +1,6 @@
+Job Title: Data Scientist & ML Engineer
+
+Responsibilities:
+- Build machine learning models, statistical pipelines, and data analytics dashboards.
+- Requirements: Strong Python, SQL, R, Pandas, NumPy, Scikit-Learn, PyTorch, TensorFlow.
+- Experience with BigQuery, Snowflake, Spark, PostgreSQL, and AWS S3/SageMaker.

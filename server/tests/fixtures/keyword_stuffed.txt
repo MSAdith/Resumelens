@@ -1,0 +1,17 @@
+Alex Smith
+alex@example.com | +1 555 019 2834 | linkedin.com/in/alex-smith | github.com/alex-smith
+
+SUMMARY
+Experienced developer skilled in React, React, React, React, React, React, React, React, React, React, Node.js, TypeScript.
+
+SKILLS
+React, React, React, React, React, React, Node.js, TypeScript, Python, SQL, Docker, AWS, GraphQL, REST API
+
+WORK EXPERIENCE
+Developer | Firm A | Jan 2022 – Present
+- Built applications using React, React, React, React, React, React and Node.js.
+- Developed backend microservices with Express and PostgreSQL handling 10k users.
+- Optimized React, React, React dashboard performance.
+
+EDUCATION
+BS Computer Science | University | 2021

@@ -1,0 +1,11 @@
+ADITHYA DEV    CONTACT DETAILS    SKILLS & TOOLS
+Engineer       adithya@test.com   React, Node, SQL
+               +91 99999 88888    TypeScript, AWS
+
+WORK HISTORY
+Software Dev    Company X    2023
+    - Built frontend pages    - Managed DB    - Handled testing
+    - Updated UI    - Fixed bugs    - Wrote API endpoints
+
+EDUCATION
+CS Degree    University    2022
